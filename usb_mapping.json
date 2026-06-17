@@ -1,0 +1,45 @@
+[
+  {
+    "logical_name": "USB 2.0 Gen 1",
+    "usb_if_marketing_name": "High-Speed USB",
+    "usb_if_technical_names": ["USB 2.0"],
+    "max_speed_gbps": 0.48,
+    "common_connectors": ["USB-A", "USB-B", "Micro-USB", "USB-C"]
+  },
+  {
+    "logical_name": "USB 3.0 Gen 1",
+    "usb_if_marketing_name": "SuperSpeed USB 5Gbps",
+    "usb_if_technical_names": ["USB 3.0", "USB 3.1 Gen 1", "USB 3.2 Gen 1"],
+    "max_speed_gbps": 5.0,
+    "common_connectors": ["USB-A", "USB-B", "USB-C"]
+  },
+  {
+    "logical_name": "USB 3.0 Gen 2",
+    "usb_if_marketing_name": "SuperSpeed USB 10Gbps",
+    "usb_if_technical_names": ["USB 3.1 Gen 2", "USB 3.2 Gen 2"],
+    "max_speed_gbps": 10.0,
+    "common_connectors": ["USB-A", "USB-C"]
+  },
+  {
+    "logical_name": "USB 3.0 Gen 3",
+    "usb_if_marketing_name": "SuperSpeed USB 20Gbps",
+    "usb_if_technical_names": ["USB 3.2 Gen 2x2"],
+    "max_speed_gbps": 20.0,
+    "common_connectors": ["USB-C"]
+  },
+  {
+    "logical_name": "USB 4.0 Gen 1",
+    "usb_if_marketing_name": "USB4 20Gbps",
+    "usb_if_technical_names": ["USB4 Gen 2x2"],
+    "max_speed_gbps": 20.0,
+    "common_connectors": ["USB-C"]
+  },
+  {
+    "logical_name": "USB 4.0 Gen 2",
+    "usb_if_marketing_name": "USB4 40Gbps",
+    "usb_if_technical_names": ["USB4 Gen 3x2"],
+    "max_speed_gbps": 40.0,
+    "common_connectors": ["USB-C"]
+  }
+]
+
