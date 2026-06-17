@@ -1,5 +1,5 @@
- # The Logical USB Project 🔌
-
+ # The Logical USB Project
+ 
 Let’s be brutally honest: trying to figure out USB versions and specs shouldn't feel like reading a military cockpit manual. 
 
 The USB Implementers Forum (USB-IF) has turned what should be a simple cable standard into an absolute, certified dumpster fire of corporate branding. Because of marketing politics and retroactive gaslighting, **USB 3.0**, **USB 3.1 Gen 1**, and **USB 3.2 Gen 1** are all the *exact same* 5 Gbps technology from 2008. They literally just kept renaming old tech so companies could print "New!" on the box without upgrading the hardware.
