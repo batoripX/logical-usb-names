@@ -1,4 +1,4 @@
-# usb_mapping.json # The Logical USB Project 🔌
+ # The Logical USB Project 🔌
 
 Let’s be brutally honest: trying to figure out USB versions and specs shouldn't feel like reading a military cockpit manual. 
 
